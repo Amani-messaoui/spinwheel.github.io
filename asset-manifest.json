@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/spinwheel.github.io/static/css/main.96c6f3d5.chunk.css",
-    "main.js": "/spinwheel.github.io/static/js/main.d8435f8c.chunk.js",
-    "main.js.map": "/spinwheel.github.io/static/js/main.d8435f8c.chunk.js.map",
-    "runtime-main.js": "/spinwheel.github.io/static/js/runtime-main.2056ea7d.js",
-    "runtime-main.js.map": "/spinwheel.github.io/static/js/runtime-main.2056ea7d.js.map",
+    "main.css": "/spinwheel.github.io/static/css/main.3bad657f.chunk.css",
+    "main.js": "/spinwheel.github.io/static/js/main.5bcc3d82.chunk.js",
+    "main.js.map": "/spinwheel.github.io/static/js/main.5bcc3d82.chunk.js.map",
+    "runtime-main.js": "/spinwheel.github.io/static/js/runtime-main.28dc6376.js",
+    "runtime-main.js.map": "/spinwheel.github.io/static/js/runtime-main.28dc6376.js.map",
     "static/css/2.a95be28f.chunk.css": "/spinwheel.github.io/static/css/2.a95be28f.chunk.css",
-    "static/js/2.e0ddf8fe.chunk.js": "/spinwheel.github.io/static/js/2.e0ddf8fe.chunk.js",
-    "static/js/2.e0ddf8fe.chunk.js.map": "/spinwheel.github.io/static/js/2.e0ddf8fe.chunk.js.map",
-    "static/js/3.38187a04.chunk.js": "/spinwheel.github.io/static/js/3.38187a04.chunk.js",
-    "static/js/3.38187a04.chunk.js.map": "/spinwheel.github.io/static/js/3.38187a04.chunk.js.map",
+    "static/js/2.e0e59975.chunk.js": "/spinwheel.github.io/static/js/2.e0e59975.chunk.js",
+    "static/js/2.e0e59975.chunk.js.map": "/spinwheel.github.io/static/js/2.e0e59975.chunk.js.map",
+    "static/js/3.5b86d224.chunk.js": "/spinwheel.github.io/static/js/3.5b86d224.chunk.js",
+    "static/js/3.5b86d224.chunk.js.map": "/spinwheel.github.io/static/js/3.5b86d224.chunk.js.map",
     "index.html": "/spinwheel.github.io/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/spinwheel.github.io/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.96c6f3d5.chunk.css.map": "/spinwheel.github.io/static/css/main.96c6f3d5.chunk.css.map",
-    "static/js/2.e0ddf8fe.chunk.js.LICENSE.txt": "/spinwheel.github.io/static/js/2.e0ddf8fe.chunk.js.LICENSE.txt"
+    "static/css/main.3bad657f.chunk.css.map": "/spinwheel.github.io/static/css/main.3bad657f.chunk.css.map",
+    "static/js/2.e0e59975.chunk.js.LICENSE.txt": "/spinwheel.github.io/static/js/2.e0e59975.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2056ea7d.js",
+    "static/js/runtime-main.28dc6376.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.e0ddf8fe.chunk.js",
-    "static/css/main.96c6f3d5.chunk.css",
-    "static/js/main.d8435f8c.chunk.js"
+    "static/js/2.e0e59975.chunk.js",
+    "static/css/main.3bad657f.chunk.css",
+    "static/js/main.5bcc3d82.chunk.js"
   ]
 }
