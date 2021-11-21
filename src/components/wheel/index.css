@@ -6,15 +6,15 @@
     --wheel-color: black;
     --neutral-color: white;
     --PI: 3.14159265358979;
-    --nb-item: 0;
-    --item-nb: 0;
-    --selected-item: 0;
+    --nb-item: 1e-99;
+    --item-nb: 1e-99;
+    --selected-item: 1e-99;
     --nb-turn: 5;
     --spinning-duration: 4s;
     --reset-duration: 0.25s;
   }
   
-  /* Conteneur de la roue = cercle rose extérieur */
+  /* Conteneur de la roue = cercle Noir extérieur */
   .wheel-container {
     display: block;
     position: relative;
@@ -29,7 +29,7 @@
     user-select: none;
   }
   
-  /* Triangle de sélection = 1 rose +  1 blanc */
+  /* Triangle de sélection = 1 noir +  1 blanc */
   .wheel-container::before,
   .wheel-container::after {
     content: '';
@@ -111,7 +111,7 @@
     font-family: var(--wheel-font);
   }
   
-  /* Background de l'élément = triangle rose plus clair */
+  /* Background de l'élément = triangle noir plus clair */
   .wheel-item:before {
     content: ' ';
     display: block;

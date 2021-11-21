@@ -1,6 +1,8 @@
 {
   "homepage": "https://amani-messaoui.github.io/spinwheel.github.io",
   "name": "spinner-wheel-game",
+  "description": "CSS Only (No SVG) Spinning Decision Wheel  + React for the logic",
+  "keywords": ["game", "react", "spinning wheel", "css", "animation"],
   "version": "0.1.0",
   "private": true,
   "dependencies": {

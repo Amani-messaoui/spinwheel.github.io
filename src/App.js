@@ -1,4 +1,3 @@
-import './App.css';
 import Wheel from "./components/wheel"
 function App() {
   // const places = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
