@@ -4,7 +4,7 @@ function App() {
   const Places = [
     {
     name: 1,
-    Video: "./Videos/v1.mp4"
+    Video: "./Videos/v1_1.mp4"
   },
   {
     name: 2,
@@ -16,11 +16,11 @@ function App() {
   },
   {
     name: 4,
-    Video: "./Videos/v4.mp4"
+    Video: "./Videos/v1_2.mp4"
   },
   {
     name: 5,
-    Video: "./Videos/v5.mp4"
+    Video: "./Videos/vid3_1.mp4"
   },
   {
     name: 6,
@@ -44,7 +44,7 @@ function App() {
   },
   {
     name: 11,
-    Video: "./Videos/v9.mp4"
+    Video: "./Videos/vid3_2_1.mp4"
   },
   {
     name: 12,
@@ -58,6 +58,10 @@ function App() {
     name: 14,
     Video: "./Videos/v12.mp4"
   },
+  {
+    name: 15,
+    Video: "./Videos/v4_1.mp4"
+  }
 ];
 
   return (
